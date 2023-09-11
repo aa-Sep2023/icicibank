@@ -1,0 +1,12 @@
+Linux cmds for today:
+
+vi 
+ls 
+ls -l
+touch 
+mkdir 
+vim
+cp rm rmdir 
+cp 
+
+
